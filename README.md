@@ -1,11 +1,9 @@
 # Shopping_display_cards
-# Project Title
-
-Simple overview of use/purpose.
+Display cards.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This a responsive display card to display prodeucts to buys products as it's shows Nike shoes(AIR ZOOM PEGASUS).
 
 ## User Interface
 
